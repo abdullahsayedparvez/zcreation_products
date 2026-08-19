@@ -14,3 +14,89 @@ Using the attached image as reference for the exact fabric pattern, color, and p
 Prompt 4 - Back image generate
 
 Using the attached image as reference for the exact fabric pattern, color, and print design only, generate a professional product photograph of a woman wearing a khimar/prayer garment (long, flowing one-piece hijab) made from this exact fabric. Recreate the pattern accurately and consistently across the khimar only, keeping the color, motif scale, and print style identical to the reference — do not distort, simplify, recolor, or alter the design in any way. Underneath the khimar, she is wearing a separate, plain solid-colored shalwar/pants and long sleeves in a soft neutral tone that closely matches the studio background color — completely plain with no print, no pattern, and no texture, visually blending softly with the backdrop so the focus stays on the printed khimar. Show a realistic, professional-looking AI model with an attractive, beautiful face, clear flawless even skin, well-defined features, and a serene, calm, gentle expression with eyes looking downward. Photograph her in exact side profile (facing left), kneeling and sitting back on her heels in a prayer position, leaning slightly forward, with both hands clasped and fingers interlaced together, resting low near her lap/knee level, not raised or open. Style the hijab pulled back neatly from the face with a thin fabric tie/band wrapped around the head and knotted in a small bow at the back, keeping the front clean and fitted around the face while the rest of the khimar flows loosely down and pools naturally on the ground behind and around her. Show her seated on a plain, simple neutral cream mat or cloth with minimal detailing — only a small, subtle floral embroidery visible in one corner of the mat, not a fully patterned or ornate rug. Place her against a smooth, seamless studio background in a warm tan/beige tone (like a soft camel color), with soft, even, diffused lighting and no harsh shadows. Do not add any text, labels, watermarks, logos, or graphic overlays anywhere on the image. The photo should look like a high-end product photograph — sharp focus on fabric texture and folds, clean edges, minimal noise, photorealistic, 4K quality, vertical portrait orientation.
+
+
+
+Prompt 5 — Close-up zoom on fabric/product (4-shot video)
+
+Generate a short cinematic VIDEO (not a static image) — a moving video clip made of 4 distinct shots, each lasting approximately 2 seconds, cutting smoothly from one to the next, for a total video length of about 8 seconds.
+CRITICAL DESIGN ACCURACY REQUIREMENT: Use the attached image as the exact and only source of the fabric's pattern, color palette, print scale, and paisley motif design. Do not reinterpret, redraw, simplify, restyle, recolor, or generate a "similar-looking" pattern — the print must be visually identical to the attached reference image in every single shot and every frame, including the exact paisley shapes, the exact color combination, the exact grid/lattice background pattern, and the exact spacing and scale of the motifs. Treat the attached image as a fixed texture that must be preserved pixel-for-pixel in style across all camera angles, lighting changes, and fabric movement — only the camera position, model pose, and lighting may change; the printed design itself must remain completely fixed and unaltered, as if it were a real photographed fabric, not a newly generated or approximated pattern. This is the single most important requirement of this video — do not compromise on design accuracy under any circumstances.
+CRITICAL LENGTH REQUIREMENT: The khimar's length and proportions must exactly match the attached reference image — the exact same true-to-size length, hem placement, and overall silhouette as shown in the reference, with no alteration. Do not lengthen, shorten, stretch, or exaggerate the garment's proportions in any shot.
+Using the attached image as reference, create a professional product video of a woman wearing a khimar (long, flowing one-piece hijab) made from this exact fabric, with the exact pattern applied ONLY to the khimar/hijab fabric. Underneath the khimar, she is wearing separate, plain solid-colored pajama/pants and long sleeves in a soft neutral tone that closely matches the studio background color — completely plain with no print, no pattern, and no texture whatsoever. The pattern must appear exclusively on the khimar and nowhere else on her outfit.
+Show the same realistic, professional-looking model throughout, with an attractive, elegant face, clear flawless skin, and a calm, composed expression. The hijab is pulled back neatly from the face with a thin fabric tie/band wrapped around the head, the rest flowing loosely down past the shoulders, ending at the exact same length as the reference image. Standing in a softly lit studio with a warm dusty rose/tan seamless background throughout all shots, soft even diffused lighting, no harsh shadows.
+Shot 1 (0-2 sec): Wide full-body static shot, model standing in side profile, full khimar length and exact pattern visible matching the reference precisely, fabric gently settling with a light breeze, plain solid-colored pajama clearly visible below the khimar hem with no print.
+
+Shot 2 (2-4 sec): Medium shot, slow camera push-in toward her upper body, side profile, subtle head turn from side profile toward three-quarter angle, pattern remaining exact and unaltered.
+
+Shot 3 (4-6 sec): Close-up shot on her face and shoulder area, front three-quarter angle, calm expression, fabric softly moving near her face, print detail sharp and true to reference.
+
+Shot 4 (6-8 sec): Close-up shot on the draped fabric over her shoulder and back, no face visible, camera slowly panning across the folds, with the print pattern staying完全 identical to the reference at close range.
+Each shot must look visually distinct in framing and angle from the others — no repeated camera angles or motion — but the fabric pattern, color, and garment length must remain 100% identical to the reference image across all 4 shots, with zero deviation, zero reinterpretation, and zero stylization of the design. Cinematic, photorealistic, 4K, smooth 24fps motion, shallow depth of field. No text, no logos, no watermarks, no on-screen graphics. Aspect ratio 1:1 (1080 x 1080 pixels), square format matching Instagram feed post dimensions.
+
+
+
+prompt 6 - Instagram highlights :
+Create a minimalist, elegant vertical typography graphic for a premium modest fashion brand.
+
+**Canvas:** Portrait / vertical format, 4:5 aspect ratio.
+
+**Background:** A smooth, warm cream / ivory background with a very subtle natural paper texture. Keep the background clean, soft, bright, and luxurious.
+
+**Text:** Place the word **"Orders"** centered horizontally and slightly below the vertical midpoint.
+
+Use an elegant, high-end **serif typeface** with thin-to-medium strokes, refined proportions, and a sophisticated editorial fashion aesthetic. The text should be **dark brown / deep espresso**, not pure black.
+
+**Composition:**
+
+* Minimal and uncluttered
+* Large amount of negative space
+* No icons
+* No illustrations
+* No borders
+* No decorative elements
+* No shadows
+* No additional text
+* No logo
+
+The overall aesthetic should feel **luxurious, feminine, premium, timeless, and editorial**, suitable for a sophisticated modest-fashion ecommerce website.
+
+Make sure the spelling is exactly **"Orders"** and the typography is sharp, clean, centered, and professionally typeset.
+
+
+
+
+
+
+
+Prompt 6 — Model with face (4-shot video)
+
+Generate a short cinematic VIDEO (not a static image) — a moving video clip made of 4 distinct shots, each lasting approximately 2 seconds, cutting smoothly from one to the next, for a total video length of about 8 seconds.
+
+CRITICAL DESIGN ACCURACY REQUIREMENT: Use the attached image as the exact and only source of the fabric's pattern, color palette, print scale, and paisley motif design. Do not reinterpret, redraw, simplify, restyle, recolor, or generate a "similar-looking" pattern — the print must be visually identical to the attached reference image in every single shot and every frame, including the exact paisley shapes, the exact color combination, the exact grid/lattice background pattern, and the exact spacing and scale of the motifs. Treat the attached image as a fixed texture that must be preserved pixel-for-pixel in style across all camera angles, lighting changes, and fabric movement — only the camera position, model pose, and lighting may change; the printed design itself must remain completely fixed and unaltered, as if it were a real photographed fabric, not a newly generated or approximated pattern. This is the single most important requirement of this video — do not compromise on design accuracy under any circumstances.
+
+CRITICAL LENGTH REQUIREMENT: The khimar's length and proportions must exactly match the attached reference image — the exact same true-to-size length, hem placement, and overall silhouette as shown in the reference, with no alteration. Do not lengthen, shorten, stretch, or exaggerate the garment's proportions in any shot.
+
+Using the attached image as reference, create a professional product video of a woman wearing a khimar (long, flowing one-piece hijab) made from this exact fabric, with the exact pattern applied ONLY to the khimar/hijab fabric. Underneath the khimar, she is wearing separate, plain solid-colored pajama/pants and long sleeves in a soft neutral tone that closely matches the studio background color — completely plain with no print, no pattern, and no texture whatsoever. The pattern must appear exclusively on the khimar and nowhere else on her outfit.
+
+Show the same realistic, professional-looking model throughout, with an attractive, elegant face, clear flawless skin, and a calm, composed expression. The hijab is pulled back neatly from the face with a thin fabric tie/band wrapped around the head, the rest flowing loosely down past the shoulders, ending at the exact same length as the reference image. Standing in a softly lit studio with a warm dusty rose/tan seamless background throughout all shots, soft even diffused lighting, no harsh shadows.
+
+Shot 1 (0-2 sec): Wide full-body static shot, model standing in side profile, full khimar length and exact pattern visible matching the reference precisely, fabric gently settling with a light breeze, plain solid-colored pajama clearly visible below the khimar hem with no print.
+Shot 2 (2-4 sec): Medium shot, slow camera push-in toward her upper body, side profile, subtle head turn from side profile toward three-quarter angle, pattern remaining exact and unaltered.
+Shot 3 (4-6 sec): Close-up shot on her face and shoulder area, front three-quarter angle, calm expression, fabric softly moving near her face, print detail sharp and true to reference.
+Shot 4 (6-8 sec): Close-up shot on the draped fabric over her shoulder and back, no face visible, camera slowly panning across the folds, with the print pattern staying完全 identical to the reference at close range.
+
+Each shot must look visually distinct in framing and angle from the others — no repeated camera angles or motion — but the fabric pattern, color, and garment length must remain 100% identical to the reference image across all 4 shots, with zero deviation, zero reinterpretation, and zero stylization of the design. Cinematic, photorealistic, 4K, smooth 24fps motion, shallow depth of field. No text, no logos, no watermarks, no on-screen graphics. Aspect ratio 1:1 (1080 x 1080 pixels), square format matching Instagram feed post dimensions.
+
+
+
+
+
+**Jilbab**
+
+1. front full image prompt :
+Professional product photography of a woman wearing a deep teal/turquoise one-piece jilbab with integrated hijab hood that covers the head smoothly without extra draping or scarf at the chest. The entire garment features scattered floral embroidery pattern with cream/white flowers, golden and brown leaf accents throughout the fabric. Lantern-style sleeves with puffy volume from shoulder to elbow, then gather and taper neatly at the wrists with refined cuffs. Full-length flowing A-line silhouette from shoulders to ankles. Arms positioned at sides with hands visible. Cream beige background, studio lighting, clean professional product photo, realistic high-quality image, sharp focus.
+
+2. Side full image prompt (give the front image):
+Professional product photography of a woman wearing a deep teal/turquoise one-piece jilbab with integrated hijab hood that covers the head smoothly. Scattered floral embroidery pattern with cream/white flowers, golden and brown leaf accents throughout. Lantern-style sleeves with puffy volume tapering at wrists. Full-length flowing A-line silhouette from shoulders to ankles. Complete side profile view showing the silhouette and drape of the fabric. Arms at natural position. Cream beige background, studio lighting, clean professional product photo, realistic high-quality image, sharp focus.
+
+3. 
